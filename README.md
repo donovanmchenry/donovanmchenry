@@ -26,7 +26,7 @@ Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm pas
 ---
 
 📫 **Let's Connect**:  
-- **Email**: [dzmchenry@gmail.com]
+- **Email**: [dzmchenry@gmail.com](dzmchenry@gmail.com)
 - **LinkedIn**: [Donovan McHenry](https://linkedin.com/in/donovanmchenry)  
 - **Portfolio**: [donovanmchenry.dev](https://dzmchenry.netlify.app)
 
