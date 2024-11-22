@@ -1,6 +1,6 @@
 # Donovan McHenry
 
-## 👋 About Me
+## 👋🏽 About Me
 Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm passionate about creating projects and advancing my knowledge in **Computer Science**.
 
 ---
@@ -30,4 +30,4 @@ Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm pas
 - **LinkedIn**: [Donovan McHenry](https://linkedin.com/in/donovanmchenry)  
 - **Portfolio**: [donovanmchenry.dev](https://dzmchenry.netlify.app)
 
-🌟 *“You must understand that there is more than one path to the top of the mountain.”* – Miyamoto Musashi
+💭 *“You must understand that there is more than one path to the top of the mountain.”* – Miyamoto Musashi
