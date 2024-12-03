@@ -28,6 +28,6 @@ Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm pas
 📫 **Let's Connect**:  
 - **Email**: [dzmchenry@gmail.com](dzmchenry@gmail.com)
 - **LinkedIn**: [Donovan McHenry](https://linkedin.com/in/donovanmchenry)  
-- **Portfolio**: [donovanmchenry.dev](https://dzmchenry.netlify.app)
+- **Portfolio**: [https://dzmchenry.com](https://dzmchenry.com)
 
 💭 *“You must understand that there is more than one path to the top of the mountain.”* – Miyamoto Musashi
