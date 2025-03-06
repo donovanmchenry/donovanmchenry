@@ -15,7 +15,7 @@ Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm pas
 ## 🛠️ Skills & Tools
 | Programming | Tools          | 
 |------------------------|---------------|
-| Java, Python, JavaScript, HTML/CSS, Node.js, Express       | Figma, Git | 
+| Java, Python, C++, JavaScript, HTML/CSS, Node.js, Express       | Figma, Git | 
 
 ---
 
