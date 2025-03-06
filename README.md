@@ -7,7 +7,7 @@ Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm pas
 
 ## 💻 Technical Interests
 - **Web Development**: Creating dynamic and user-friendly web applications.
-- **Machine Learning**: Learning and implementing models through **Kaggle**.
+- **Machine Learning**: Learning and implementing models.
 - **Algorithm Design**: Delving into the mathematical side of programming.
 
 ---
