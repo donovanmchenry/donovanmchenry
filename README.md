@@ -1,7 +1,7 @@
 # Donovan McHenry
 
 ## 👋🏽 About Me
-Hi! I'm **Donovan**, a sophomore **Computer Science** major at **NJIT**. I'm passionate about creating projects and advancing my knowledge in **Computer Science**.
+Hi! I'm **Donovan**, a junior **Computer Science** major at **NJIT**. I'm passionate about creating projects and advancing my knowledge in **Computer Science**.
 
 ---
 
