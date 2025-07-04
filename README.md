@@ -22,6 +22,7 @@ Hi! I'm **Donovan**, a junior **Computer Science** major at **NJIT**. I'm passio
 ## 🚀 Featured Projects
 - **[Order Up!](https://github.com/donovanmchenry/Order-Up)**: A memory-based web game with dynamic gameplay mechanics.
 - **[Chatify](https://github.com/donovanmchenry/Chatify)**: A real-time chat application integrating AI-driven features to enhance user experience.
+- **[NJIT Auto Schedule Builder](https://github.com/donovanmchenry/Chatify)**: A simple flask site that allows NJIT students to automatically see all possible schedules within time restraints.
 
 ---
 
