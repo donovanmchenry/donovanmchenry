@@ -1,6 +1,6 @@
 ###  ⬇️ Check this out
 
-**[NJIT Schedule Pro](https://github.com/donovanmchenry/njitschedulepro)** • Auto-generates clash-free course schedules
+**[NJIT Schedule Pro](https://github.com/donovanmchenry/njitschedulepro)** - Auto-generates clash-free course schedules for students at NJIT!
 
 ### 📟 Tech Stack
 
