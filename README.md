@@ -1,34 +1,19 @@
-# Donovan McHenry
+###  ⬇️ Check this out
 
-## 👋🏽 About Me
-Hi! I'm **Donovan**, a junior **Computer Science** major at **NJIT**. I'm passionate about creating projects and advancing my knowledge in **Computer Science**. In my freetime I enjoy weightlifting, travelling, and the great outdoors.
+**[NJIT Schedule Pro](https://github.com/donovanmchenry/njitschedulepro)** • Auto-generates clash-free course schedules
 
----
+### 📟 Tech Stack
 
-## 💻 Technical Interests
-- **Web Development**: Creating dynamic and user-friendly web applications.
-- **Machine Learning**: Learning and implementing models.
-- **Algorithm Design**: Delving into the mathematical side of programming.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+### 📨 Contact Me
 
-## 🛠️ Skills & Tools
-| Programming | Tools          | 
-|------------------------|---------------|
-| Java, Python, C++, JavaScript, HTML/CSS, Node.js, Express       | Figma, Git | 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dzmchenry.com-blue?style=flat-square)](https://dzmchenry.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/donovanmchenry)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dzm3@njit.edu)
 
----
-
-## 🚀 Featured Projects
-- **[Order Up!](https://github.com/donovanmchenry/Order-Up)**: A memory-based web game with dynamic gameplay mechanics.
-- **[Chatify](https://github.com/donovanmchenry/Chatify)**: A real-time chat application integrating AI-driven features to enhance user experience.
-- **[NJIT Auto Schedule Builder](https://github.com/donovanmchenry/NJITAutoScheduleBuilder)**: A simple flask site that allows NJIT students to automatically see all possible schedules within time restraints.
-
----
-
-📫 **Let's Connect**:  
-- **Email**: [dzmchenry@gmail.com](dzmchenry@gmail.com)
-- **LinkedIn**: [Donovan McHenry](https://linkedin.com/in/donovanmchenry)  
-- **Portfolio**: [https://dzmchenry.com](https://dzmchenry.com)
-
-💭 *“You must understand that there is more than one path to the top of the mountain.”* – Miyamoto Musashi
