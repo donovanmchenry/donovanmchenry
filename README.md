@@ -1,7 +1,9 @@
 ###  ⬇️ Check this out
 
 **[NJIT Schedule Pro](https://github.com/donovanmchenry/njitschedulepro)** - Auto-generates clash-free course schedules for students at NJIT!
+
 **[NJIT Empty Room Finder](https://github.com/donovanmchenry/njitemptyroomfinder)** - Finds potential empty rooms on campus (rooms with no classes)!
+
 ### 📟 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
