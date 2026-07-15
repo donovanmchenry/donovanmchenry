@@ -1,10 +1,8 @@
-###  ⬇️ Check this out
+###  ⬇️ Projects of Interest
 
 **[NJIT Schedule Pro](https://github.com/donovanmchenry/njitschedulepro)** - Auto-generates clash-free course schedules for students at NJIT!
 
 **[NJIT Empty Room Finder](https://github.com/donovanmchenry/njitemptyroomfinder)** - Finds potential empty rooms on campus (rooms with no classes)!
-
-**[Learnflix](https://github.com/donovanmchenry/learnflix)** - Leverages passive learning through splicing in AI generated trivia clips into your favourite tv shows!
 
 ### 📟 Tech Stack
 
