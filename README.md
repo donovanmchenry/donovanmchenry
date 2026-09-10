@@ -17,16 +17,34 @@
     </td>
     <td width="58%" valign="middle">
       <strong>Languages</strong><br>
-      Python · TypeScript · JavaScript · Java · C++
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
       <br><br>
       <strong>Frontend</strong><br>
-      React · Next.js · Tailwind CSS · MUI · Zustand
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&amp;logo=mui&amp;logoColor=white" alt="MUI">
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&amp;logoColor=white" alt="Zustand">
       <br><br>
       <strong>Backend and APIs</strong><br>
-      Node.js · Express · FastAPI · Flask · Pydantic · REST APIs
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic">
+      <img src="https://img.shields.io/badge/REST_APIs-5B5B5B?style=flat-square" alt="REST APIs">
       <br><br>
       <strong>Tools and AI</strong><br>
-      Git · GitHub Actions · Docker · OpenAI · Anthropic · MCP
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic">
+      <img src="https://img.shields.io/badge/Model_Context_Protocol-5B5B5B?style=flat-square" alt="MCP">
     </td>
   </tr>
 </table>
