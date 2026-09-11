@@ -8,9 +8,9 @@
 
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/skill-cloud-dark-rounded.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/skill-cloud-light-rounded.gif">
-  <img align="left" src="./assets/skill-cloud-dark-rounded.gif" width="330" alt="Animated cloud of technology icons">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skill-cloud-dark-transparent.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/skill-cloud-light-transparent.gif">
+  <img align="left" src="./assets/skill-cloud-dark-transparent.gif" width="330" alt="Animated cloud of technology icons">
 </picture>
 <strong>Languages</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
